@@ -1,5 +1,5 @@
 import axios from 'axios';
-const EMPLOYEE_API_BASE_URL= "https://employeelist-1654147898910.azurewebsites.net/api/v1/employees";
+const EMPLOYEE_API_BASE_URL= "https://testdemoazure.azurewebsites.net/api/v1/employees";
 
 class Employeesrvices{
     getEmployees(){

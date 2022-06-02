@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.gigatorb.employeelist.EmployeelistApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 11.033 s - in com.gigatorb.employeelist.EmployeelistApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 11.936 s - in com.gigatorb.employeelist.EmployeelistApplicationTests
