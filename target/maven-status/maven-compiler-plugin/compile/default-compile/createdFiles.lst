@@ -1,0 +1,5 @@
+com\gigatorb\employeelist\model\Employee.class
+com\gigatorb\employeelist\repository\EmployeeRepository.class
+com\gigatorb\employeelist\Exception\ResourceNotFoundException.class
+com\gigatorb\employeelist\Controller\EmployeeController.class
+com\gigatorb\employeelist\EmployeesApplication.class

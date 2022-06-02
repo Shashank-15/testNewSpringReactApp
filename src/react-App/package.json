@@ -25,7 +25,7 @@
       "react-app/jest"
     ]
   },
-  "proxy": "http://localhost:9191",
+  "proxy": "https://employeelist-1654147898910.azurewebsites.net",
   "browserslist": {
     "production": [
       ">0.2%",
